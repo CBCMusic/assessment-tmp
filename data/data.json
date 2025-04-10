@@ -1,0 +1,109 @@
+{
+    "status": "success",
+    "data": [
+      {
+        "id": 121212,
+        "title": "Woman arrested in Taylor Swift ticket fraud case: Toronto police",
+        "description": "Toronto police have arrested a GTA woman who they allege scammed dozens of Taylor Swift fans out of nearly $70,000 by promising them tickets that never materialized.",
+        "author": "Author 1",
+        "source": "CBC News",
+        "isLocal": true,
+        "publishedAtUnix": 1732629001317,
+        "version": "1.1",
+        "media": {
+          "imageUrl": "https://i.cbc.ca/1.7384058.1731634500!/cumulusImage/httpImage/image.jpg_gen/derivatives/16x9_620/taylor-swift-eras-day-1.jpg"
+        }
+      },
+      {
+        "id": 223232,
+        "title": "Trudeau to meet with premiers as Trump threatens hefty tariffs on Canadian goods",
+        "description": "Prime Minister Justin Trudeau says he’s agreed to meet with his provincial and territorial counterparts after Donald Trump threatened to impose hefty tariffs on Canadian goods.",
+        "author": "Author 1",
+        "source": "CBC News",
+        "isLocal": true,
+        "publishedAtUnix": 1732631963599,
+        "version": "1.0",
+        "media": {
+          "imageUrl": "https://i.cbc.ca/1.7258895.1731267396!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/nato-summit-trump-trudeau.JPG"
+        }
+      },
+      {
+        "id": 333223,
+        "title": "Veteran Edmonton actor Julien Arnold dies during performance at Citadel Theatre",
+        "description": "Edmonton actor Julien Arnold died on Sunday night after a medical emergency during a performance of A Christmas Carol at the Citadel Theatre.",
+        "author": "Author 2",
+        "source": "CBC News",
+        "isLocal": false,
+        "publishedAtUnix": 1732580146863,
+        "version": "2.1",
+        "media": {
+          "imageUrl": "https://i.cbc.ca/1.7393521.1732637193!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_620/julien-arnold-edmonton.jpeg"
+        }
+      },
+      {
+        "id": 421444,
+        "title": "Beef prices hit record high at the grocery store — and on the ranch too",
+        "description": "The cost of ground beef, steak and roasts has continued to rise this year, reaching historic levels on grocery store shelves.",
+        "author": "Author 1",
+        "source": "CBC News",
+        "isLocal": false,
+        "publishedAtUnix": 1732611600426,
+        "version": "1.3",
+        "media": {
+          "imageUrl": "https://i.cbc.ca/1.7390772.1732298830!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_620/ground-beef.jpeg"
+        }
+      },
+      {
+        "id": 555555,
+        "title": "What exactly is a tariff? What you need to know about Trump's newest threat",
+        "description": "Donald Trump has threatened to impose a 25 per cent tariff on all products entering the country from Canada and Mexico on his first day in office. We break down what that means, and how it could affect you.",
+        "author": "Author 3",
+        "source": "CBC News",
+        "isLocal": true,
+        "publishedAtUnix": 1732645492564,
+        "version": "1.3",
+        "media": {
+          "imageUrl": "https://i.cbc.ca/1.7393388.1732629106!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/usa-trump-tariff.JPG"
+        }
+      },
+      {
+        "id": 661661,
+        "title": "Netanyahu says he supports ceasefire proposal with Lebanon's Hezbollah",
+        "description": "Israeli Prime Minister Benjamin Netanyahu said Tuesday that he would recommend his cabinet adopt a U.S.-brokered ceasefire agreement with Lebanon's Hezbollah, as Israeli warplanes struck across Lebanon, killing at least 23 people.",
+        "author": "Author 4",
+        "source": "CBC News",
+        "isLocal": false,
+        "publishedAtUnix": 1726598320542,
+        "version": "1.1",
+        "media": {
+          "imageUrl": "https://i.cbc.ca/1.7274065.1721847427!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/us-israel-netanyahu.jpg"
+        }
+      },
+      {
+        "id": 707000,
+        "title": "Study finds Indigenous people cultivated hazelnuts 7,000 years ago, challenging modern assumptions",
+        "description": "A new study indicates Indigenous peoples in what is now British Columbia have been cultivating the beaked hazelnut for thousands of years, challenging assumptions that pre-colonial Indigenous people were only hunter-gatherers.",
+        "author": "Author 4",
+        "source": "CBC News",
+        "isLocal": true,
+        "publishedAtUnix": 1732633200511,
+        "version": "1.0",
+        "media": {
+          "imageUrl": "https://i.cbc.ca/1.7392868.1732582645!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/hazelnut-fruit.jpg"
+        }
+      },
+      {
+        "id": 800000,
+        "title": "How Canadian encrypted phones became coveted tools for criminals around the world",
+        "description": "Criminals around the world using Canadian encrypted phones thought they were operating under the radar. But European police managed to intercept their messages and crack the code, leading to thousands of convictions. Radio-Canada’s Enquête reveals how some of the Vancouver company’s top distributors of the Sky ECC phones were connected to the criminal underworld.",
+        "author": "Author 4",
+        "source": "CBC News",
+        "isLocal": false,
+        "publishedAtUnix": 1732611600792,
+        "version": "3.1",
+        "media": {
+          "imageUrl": "https://i.cbc.ca/1.7393030.1732573274!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/sky-eec.jpg"
+        }
+      }
+    ]
+  }
